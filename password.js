@@ -1,5 +1,4 @@
-
-/*these are global variables
+/*
 var password1 = $("#password1").val();
 var password2 = $("#password2").val();*/
 
